@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "firebase": "^11.0.2"
+  },
+  "name": "openshift",
+  "version": "1.0.0",
+  "description": "Tp openshift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liris3tp12",
+  "license": "MIT"
+}
