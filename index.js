@@ -5,5 +5,5 @@ const app = express();
 app.use(express.static('./'));
 
 app.listen(8080, () => {
-    console.log('listening at http://localhost:8080');
+    console.log('listening at http://localhost:3000);
 });
